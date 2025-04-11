@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Produto A",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto B",
+        "variacoes": [
+            {
+                "codigo": "P002-A",
+                "medidas": "15x25 cm"
+            },
+            {
+                "codigo": "P002-B",
+                "medidas": "18x30 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto C",
+        "variacoes": [
+            {
+                "codigo": "P002-B",
+                "medidas": "18x30 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto D",
+        "variacoes": [
+            {
+                "codigo": "P002-B",
+                "medidas": "18x30 cm"
+            },
+            {
+                "codigo": "P002-B",
+                "medidas": "18x30 cm"
+            }
+        ]
+    }
+]

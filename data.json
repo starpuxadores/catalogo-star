@@ -1,0 +1,114 @@
+[
+    {
+        "nome": "Produto A",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto B",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto C",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto D",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto E",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto F",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto G",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    },
+    {
+        "nome": "Produto H",
+        "imagem": "https://storage.googleapis.com/novo-blog-wordpress/2023/07/5cfe0c98-capa-blog_projeto-orientacao-profissional_administracao.jpg",
+        "variacoes": [
+            {
+                "codigo": "P001-A",
+                "medidas": "10x20 cm"
+            },
+            {
+                "codigo": "P001-B",
+                "medidas": "12x24 cm"
+            }
+        ]
+    }
+]

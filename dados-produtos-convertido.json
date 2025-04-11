@@ -1,0 +1,1450 @@
+[
+    {
+        "nome": "Coluna Torre 1 Furo | Polida",
+        "imagem": "assets/produtos/coluna-torre-1furo/1furo-polida.png",
+        "imagem2": "assets/produtos/coluna-torre-1furo/1furo-polida-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T201P10",
+                "medidas": "20cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T301P10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 1 Furo | Escovada",
+        "imagem": "assets/produtos/coluna-torre-1furo/1furo-escovada.jpg",
+        "imagem2": "assets/produtos/coluna-torre-1furo/1furo-escovada-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T201E10",
+                "medidas": "20cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T301E10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 1 Furo | Preta",
+        "imagem": "assets/produtos/coluna-torre-1furo/1furo-preta.png",
+        "imagem2": "assets/produtos/coluna-torre-1furo/1furo-preta-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T201PR10",
+                "medidas": "20cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T301PR10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 1 Furo | Branca",
+        "imagem": "assets/produtos/coluna-torre-1furo/1furo-branca.png",
+        "imagem2": "assets/produtos/coluna-torre-1furo/1furo-branca-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T201BR10",
+                "medidas": "20cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T301BR10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 2 Furos | Polida",
+        "imagem": "assets/produtos/coluna-torre-2furos/2furos-polida.png",
+        "imagem2": "assets/produtos/coluna-torre-2furos/2furos-polida-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T302P10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T402P10",
+                "medidas": "40cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T402P12",
+                "medidas": "40cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T402P16",
+                "medidas": "40cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T502P10",
+                "medidas": "50cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T502P12",
+                "medidas": "50cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T502P16",
+                "medidas": "50cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T602P10",
+                "medidas": "60cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T602P12",
+                "medidas": "60cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T602P16",
+                "medidas": "60cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T702P10",
+                "medidas": "70cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T702P12",
+                "medidas": "70cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T702P16",
+                "medidas": "70cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T802P10",
+                "medidas": "80cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T802P12",
+                "medidas": "80cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T802P16",
+                "medidas": "80cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T902P10",
+                "medidas": "90cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T902P12",
+                "medidas": "90cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T902P16",
+                "medidas": "90cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T1002P10",
+                "medidas": "100cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T1002P12",
+                "medidas": "100cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T1002P16",
+                "medidas": "100cm | p/ Vidro de 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 2 Furos | Escovada",
+        "imagem": "assets/produtos/coluna-torre-2furos/2furos-escovada.png",
+        "imagem2": "assets/produtos/coluna-torre-2furos/2furos-escovada-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T302E10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T302E12",
+                "medidas": "30cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T302E16",
+                "medidas": "30cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T402E10",
+                "medidas": "40cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T402E12",
+                "medidas": "40cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T402E16",
+                "medidas": "40cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T502E10",
+                "medidas": "50cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T502E12",
+                "medidas": "50cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T502E16",
+                "medidas": "50cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T602E10",
+                "medidas": "60cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T602E12",
+                "medidas": "60cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T602E16",
+                "medidas": "60cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T702E10",
+                "medidas": "70cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T702E12",
+                "medidas": "70cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T702E16",
+                "medidas": "70cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T802E10",
+                "medidas": "80cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T802E12",
+                "medidas": "80cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T802E16",
+                "medidas": "80cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T902E10",
+                "medidas": "90cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T902E12",
+                "medidas": "90cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T902E16",
+                "medidas": "90cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T1002E10",
+                "medidas": "100cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T1002E12",
+                "medidas": "100cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T1002E16",
+                "medidas": "100cm | p/ Vidro de 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 2 Furos | Preta",
+        "imagem": "assets/produtos/coluna-torre-2furos/2furos-preta.png",
+        "imagem2": "assets/produtos/coluna-torre-2furos/2furos-preta-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T302PR10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T302PR12",
+                "medidas": "30cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T302PR16",
+                "medidas": "30cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T402PR10",
+                "medidas": "40cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T402PR12",
+                "medidas": "40cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T402PR16",
+                "medidas": "40cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T502PR10",
+                "medidas": "50cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T502PR12",
+                "medidas": "50cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T502PR16",
+                "medidas": "50cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T602PR10",
+                "medidas": "60cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T602PR12",
+                "medidas": "60cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T602PR16",
+                "medidas": "60cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T702PR10",
+                "medidas": "70cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T702PR12",
+                "medidas": "70cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T702PR16",
+                "medidas": "70cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T802PR10",
+                "medidas": "80cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T802PR12",
+                "medidas": "80cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T802PR16",
+                "medidas": "80cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T902PR10",
+                "medidas": "90cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T902PR12",
+                "medidas": "90cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T902PR16",
+                "medidas": "90cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T1002PR10",
+                "medidas": "100cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T1002PR12",
+                "medidas": "100cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T1002PR16",
+                "medidas": "100cm | p/ Vidro de 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Coluna Torre 2 Furos | Branca",
+        "imagem": "assets/produtos/coluna-torre-2furos/2furos-branca.png",
+        "imagem2": "assets/produtos/coluna-torre-2furos/2furos-branca-segunda.jpg",
+        "categoria": "Coluna Torre",
+        "variacoes": [
+            {
+                "codigo": "T302BR10",
+                "medidas": "30cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T302BR12",
+                "medidas": "30cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T302BR16",
+                "medidas": "30cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T402BR10",
+                "medidas": "40cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T402BR12",
+                "medidas": "40cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T402BR16",
+                "medidas": "40cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T502BR10",
+                "medidas": "50cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T502BR12",
+                "medidas": "50cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T502BR16",
+                "medidas": "50cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T602BR10",
+                "medidas": "60cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T602BR12",
+                "medidas": "60cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T602BR16",
+                "medidas": "60cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T702BR10",
+                "medidas": "70cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T702BR12",
+                "medidas": "70cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T702BR16",
+                "medidas": "70cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T802BR10",
+                "medidas": "80cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T802BR12",
+                "medidas": "80cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T802BR16",
+                "medidas": "80cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T902BR10",
+                "medidas": "90cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T902BR12",
+                "medidas": "90cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T902BR16",
+                "medidas": "90cm | p/ Vidro de 16mm"
+            },
+            {
+                "codigo": "T1002BR10",
+                "medidas": "100cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "T1002BR12",
+                "medidas": "100cm | p/ Vidro de 12mm"
+            },
+            {
+                "codigo": "T1002BR16",
+                "medidas": "100cm | p/ Vidro de 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Retangulo | Polido",
+        "imagem": "assets/produtos/puxador-retangulo/puxador-retangulo-polido.png",
+        "imagem2": "assets/produtos/puxador-retangulo/puxador-retangulo-polido-segunda.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P30P",
+                "medidas": "30cm | 20cm entre furos"
+            },
+            {
+                "codigo": "P40P",
+                "medidas": "40cm | 30cm entre furos"
+            },
+            {
+                "codigo": "P50P",
+                "medidas": "50cm | 30cm entre furos"
+            },
+            {
+                "codigo": "P60P",
+                "medidas": "60cm | 40cm entre furos"
+            },
+            {
+                "codigo": "P70P",
+                "medidas": "70cm | 50cm entre furos"
+            },
+            {
+                "codigo": "P80P",
+                "medidas": "80cm | 60cm entre furos"
+            },
+            {
+                "codigo": "P90P",
+                "medidas": "90cm | 70cm entre furos"
+            },
+            {
+                "codigo": "P100P",
+                "medidas": "100cm | 80cm entre furos"
+            },
+            {
+                "codigo": "P120P",
+                "medidas": "120cm | 90cm entre furos"
+            },
+            {
+                "codigo": "P150P",
+                "medidas": "150cm | 100cm entre furos"
+            },
+            {
+                "codigo": "P180P",
+                "medidas": "180cm | 100cm entre furos"
+            },
+            {
+                "codigo": "P200P",
+                "medidas": "200cm | 120cm entre furos"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Retangulo | Escovado",
+        "imagem": "assets/produtos/puxador-retangulo/puxador-retangulo-escovado.png",
+        "imagem2": "assets/produtos/puxador-retangulo/puxador-retangulo-escovado-segunda.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P30E",
+                "medidas": "30cm | 20cm entre furos"
+            },
+            {
+                "codigo": "P40E",
+                "medidas": "40cm | 30cm entre furos"
+            },
+            {
+                "codigo": "P50E",
+                "medidas": "50cm | 30cm entre furos"
+            },
+            {
+                "codigo": "P60E",
+                "medidas": "60cm | 40cm entre furos"
+            },
+            {
+                "codigo": "P70E",
+                "medidas": "70cm | 50cm entre furos"
+            },
+            {
+                "codigo": "P80E",
+                "medidas": "80cm | 60cm entre furos"
+            },
+            {
+                "codigo": "P90E",
+                "medidas": "90cm | 70cm entre furos"
+            },
+            {
+                "codigo": "P100E",
+                "medidas": "100cm | 80cm entre furos"
+            },
+            {
+                "codigo": "P120E",
+                "medidas": "120cm | 90cm entre furos"
+            },
+            {
+                "codigo": "P150E",
+                "medidas": "150cm | 100cm entre furos"
+            },
+            {
+                "codigo": "P180E",
+                "medidas": "180cm | 100cm entre furos"
+            },
+            {
+                "codigo": "P200E",
+                "medidas": "200cm | 120cm entre furos"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Retangulo | Preto",
+        "imagem": "assets/produtos/puxador-retangulo/puxador-retangulo-preto.png",
+        "imagem2": "assets/produtos/puxador-retangulo/puxador-retangulo-preto-segunda.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P30PR",
+                "medidas": "30cm | 20cm entre furos"
+            },
+            {
+                "codigo": "P40PR",
+                "medidas": "40cm | 30cm entre furos"
+            },
+            {
+                "codigo": "P50PR",
+                "medidas": "50cm | 30cm entre furos"
+            },
+            {
+                "codigo": "P60PR",
+                "medidas": "60cm | 40cm entre furos"
+            },
+            {
+                "codigo": "P70PR",
+                "medidas": "70cm | 50cm entre furos"
+            },
+            {
+                "codigo": "P80PR",
+                "medidas": "80cm | 60cm entre furos"
+            },
+            {
+                "codigo": "P90PR",
+                "medidas": "90cm | 70cm entre furos"
+            },
+            {
+                "codigo": "P100PR",
+                "medidas": "100cm | 80cm entre furos"
+            },
+            {
+                "codigo": "P120PR",
+                "medidas": "120cm | 90cm entre furos"
+            },
+            {
+                "codigo": "P150PR",
+                "medidas": "150cm | 100cm entre furos"
+            },
+            {
+                "codigo": "P180PR",
+                "medidas": "180cm | 100cm entre furos"
+            },
+            {
+                "codigo": "P200PR",
+                "medidas": "200cm | 120cm entre furos"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador U",
+        "imagem": "assets/produtos/puxador-u/puxador-u.png",
+        "imagem2": "assets/produtos/puxador-u/puxador-u-polido-segunda.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P120U",
+                "medidas": "122cm"
+            },
+            {
+                "codigo": "P100U",
+                "medidas": "102cm"
+            },
+            {
+                "codigo": "P80U",
+                "medidas": "82cm"
+            },
+            {
+                "codigo": "P60U",
+                "medidas": "62cm"
+            },
+            {
+                "codigo": "P40U",
+                "medidas": "42cm"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Curvo",
+        "imagem": "assets/produtos/puxador-curvo/puxador-curvo.png",
+        "imagem2": "assets/produtos/puxador-curvo/puxador-curvo-polido-segunda.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P100CR",
+                "medidas": "100cm"
+            },
+            {
+                "codigo": "P80CR",
+                "medidas": "80cm"
+            },
+            {
+                "codigo": "P40CR",
+                "medidas": "40cm"
+            },
+            {
+                "codigo": "P30CR",
+                "medidas": "30cm"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Tubular",
+        "imagem": "assets/produtos/puxador-tubular/puxador-tubular.png",
+        "imagem2": "assets/produtos/puxador-tubular/puxador-tubular-polido-segunda.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P45TB",
+                "medidas": "45cm"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Concha | Polido",
+        "imagem": "assets/produtos/puxador-concha/puxador-concha-polido.jpg",
+        "imagem2": "assets/produtos/puxador-concha/puxador-concha-polido.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P15CHP",
+                "medidas": "150mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P25CHP",
+                "medidas": "250mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P40CHP",
+                "medidas": "400mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P60CHP",
+                "medidas": "600mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P80CHP",
+                "medidas": "800mm (15mm profundidade)"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Concha | Escovado",
+        "imagem": "assets/produtos/puxador-concha/puxador-concha-escovado.jpg",
+        "imagem2": "assets/produtos/puxador-concha/puxador-concha-escovado.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P15CHE",
+                "medidas": "150mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P25CHE",
+                "medidas": "250mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P40CHE",
+                "medidas": "400mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P60CHE",
+                "medidas": "600mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P80CHE",
+                "medidas": "800mm (15mm profundidade)"
+            }
+        ]
+    },
+    {
+        "nome": "Puxador Concha | Preto",
+        "imagem": "assets/produtos/puxador-concha/puxador-concha-preto.jpg",
+        "imagem2": "assets/produtos/puxador-concha/puxador-concha-preto.jpg",
+        "categoria": "Puxadores",
+        "variacoes": [
+            {
+                "codigo": "P15CHPR",
+                "medidas": "150mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P25CHPR",
+                "medidas": "250mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P40CHPR",
+                "medidas": "400mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P60CHPR",
+                "medidas": "600mm (15mm profundidade)"
+            },
+            {
+                "codigo": "P80CHPR",
+                "medidas": "800mm (15mm profundidade)"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Eclipse",
+        "imagem": "assets/produtos/trilho-eclipse/trilho-eclipse.png",
+        "imagem2": "assets/produtos/trilho-eclipse/trilho-eclipse-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "REC",
+                "medidas": "Porta de 100cm"
+            },
+            {
+                "codigo": "REC120",
+                "medidas": "Porta de até 120cm"
+            },
+            {
+                "codigo": "REC140",
+                "medidas": "Porta de até 140cm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Aparente | Polido",
+        "imagem": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-polido.jpg",
+        "imagem2": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-polido-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R150P",
+                "medidas": "150cm"
+            },
+            {
+                "codigo": "R200P",
+                "medidas": "200cm"
+            },
+            {
+                "codigo": "R250P",
+                "medidas": "250cm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Aparente | Escovado",
+        "imagem": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-escovado.jpg",
+        "imagem2": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-escovado-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R150E",
+                "medidas": "150cm"
+            },
+            {
+                "codigo": "R200E",
+                "medidas": "200cm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Aparente | Preto",
+        "imagem": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-preto.jpg",
+        "imagem2": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-preto-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R200PR",
+                "medidas": "200cm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Aparente | Polido p/ Vidro",
+        "imagem": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-polido.jpg",
+        "imagem2": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-polido-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R150PV",
+                "medidas": "150cm | p/ Vidro de 10mm"
+            },
+            {
+                "codigo": "R200PV",
+                "medidas": "200cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Aparente | Escovado p/ Vidro",
+        "imagem": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-escovado.jpg",
+        "imagem2": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-escovado-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R200EV",
+                "medidas": "200cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Aparente | Preto p/ Vidro",
+        "imagem": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-preto.jpg",
+        "imagem2": "assets/produtos/trilho-roldana-aparente/trilho-roldana-aparante-preto-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R200PRV",
+                "medidas": "200cm | p/ Vidro de 10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Embutido | Natural",
+        "imagem": "assets/produtos/trilho-embutido/trilho-embutido-natural.png",
+        "imagem2": "assets/produtos/trilho-embutido/trilho-embutido-natural-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R200EMB",
+                "medidas": "200cm"
+            }
+        ]
+    },
+    {
+        "nome": "Trilho Roldana Embutido | Preto",
+        "imagem": "assets/produtos/trilho-embutido/trilho-embutido-preto.png",
+        "imagem2": "assets/produtos/trilho-embutido/trilho-embutido-preto-segunda.jpg",
+        "categoria": "Trilhos",
+        "variacoes": [
+            {
+                "codigo": "R200EMBPR",
+                "medidas": "200cm"
+            }
+        ]
+    },
+    {
+        "nome": "Dobradiça Pivotante | Branca",
+        "imagem": "assets/produtos/dobradica-pivotante/dobradica-pivotante-branca.jpg",
+        "imagem2": "assets/produtos/dobradica-pivotante/dobradica-pivotante-branca-segunda.jpg",
+        "categoria": "Dobradiças",
+        "variacoes": [
+            {
+                "codigo": "DBR50BR",
+                "medidas": "até 50kg"
+            },
+            {
+                "codigo": "DBR150BR",
+                "medidas": "até 150kg"
+            },
+            {
+                "codigo": "DBR300BR",
+                "medidas": "até 300kg"
+            }
+        ]
+    },
+    {
+        "nome": "Dobradiça Pivotante | Preta",
+        "imagem": "assets/produtos/dobradica-pivotante/dobradica-pivotante-preta.jpg",
+        "imagem2": "assets/produtos/dobradica-pivotante/dobradica-pivotante-preta-segunda.jpg",
+        "categoria": "Dobradiças",
+        "variacoes": [
+            {
+                "codigo": "DBR50PR",
+                "medidas": "até 50kg"
+            },
+            {
+                "codigo": "DBR150PR",
+                "medidas": "até 150kg"
+            },
+            {
+                "codigo": "DBR300PR",
+                "medidas": "até 300kg"
+            }
+        ]
+    },
+    {
+        "nome": "Dobradiça Pivotante | Natural",
+        "imagem": "assets/produtos/dobradica-pivotante/dobradica-pivotante-natural.jpg",
+        "imagem2": "assets/produtos/dobradica-pivotante/dobradica-pivotante-natural-segunda.jpg",
+        "categoria": "Dobradiças",
+        "variacoes": [
+            {
+                "codigo": "DBR50",
+                "medidas": "até 50kg"
+            },
+            {
+                "codigo": "DBR150",
+                "medidas": "até 150kg"
+            },
+            {
+                "codigo": "DBR300",
+                "medidas": "até 300kg"
+            }
+        ]
+    },
+    {
+        "nome": "Botton Maciço Inox | Natural",
+        "imagem": "assets/produtos/botton/botton-natural.jpg",
+        "imagem2": "assets/produtos/botton/botton-natural-segunda.jpg",
+        "categoria": "Bottons",
+        "variacoes": [
+            {
+                "codigo": "BTN",
+                "medidas": "3mm x 27,5mm x 38mm"
+            }
+        ]
+    },
+    {
+        "nome": "Botton Maciço Inox | Preto",
+        "imagem": "assets/produtos/botton/botton-preto.jpg",
+        "imagem2": "assets/produtos/botton/botton-preto-segunda.jpg",
+        "categoria": "Bottons",
+        "variacoes": [
+            {
+                "codigo": "BTNPR",
+                "medidas": "3mm x 27,5mm x 38mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 180º V/V | Polido",
+        "imagem": "assets/produtos/conector-180-VV/conector-180-VV-polido.jpg",
+        "imagem2": "assets/produtos/conector-180-VV/conector-180-VV-polido-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN180P",
+                "medidas": "80mm. 66mm (entre furos)"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 180º V/V | Preto",
+        "imagem": "assets/produtos/conector-180-VV/conector-180-VV-preto.jpg",
+        "imagem2": "assets/produtos/conector-180-VV/conector-180-VV-preto-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN180PR",
+                "medidas": "80mm. 66mm (entre furos)"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 180º V/V | Branco",
+        "imagem": "assets/produtos/conector-180-VV/conector-180-VV-branco.jpg",
+        "imagem2": "assets/produtos/conector-180-VV/conector-180-VV-branco-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN180BR",
+                "medidas": "80mm. 66mm (entre furos)"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 90º V/V | Polido",
+        "imagem": "assets/produtos/conector-90-vv/polido.jpg",
+        "imagem2": "assets/produtos/conector-90-vv/polido-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90P",
+                "medidas": "42mm x 28mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 90º V/V | Preto",
+        "imagem": "assets/produtos/conector-90-vv/preto.jpg",
+        "imagem2": "assets/produtos/conector-90-vv/preto-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90PR",
+                "medidas": "42mm x 28mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 90º V/V | Branco",
+        "imagem": "assets/produtos/conector-90-vv/branco.jpg",
+        "imagem2": "assets/produtos/conector-90-vv/branco-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90BR",
+                "medidas": "42mm x 28mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 90º Alvenaria | Polido",
+        "imagem": "assets/produtos/conector-90/conector-90-natural.jpg",
+        "imagem2": "assets/produtos/conector-90/conector-90-natural-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90VAP",
+                "medidas": "(40mm Alvenaria) 54mm x 46mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 90º Alvenaria | Preto",
+        "imagem": "assets/produtos/conector-90/conector-90-preto.jpg",
+        "imagem2": "assets/produtos/conector-90/conector-90-preto-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90VAPR",
+                "medidas": "(40mm Alvenaria) 54mm x 46mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União 90º Alvenaria | Branco",
+        "imagem": "assets/produtos/conector-90/conector-90-branco.jpg",
+        "imagem2": "assets/produtos/conector-90/conector-90-branco-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90VABR",
+                "medidas": "(40mm Alvenaria) 54mm x 46mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União de Canto 90º | Polido",
+        "imagem": "assets/produtos/conector-canto-90/conector-canto-90-polido.jpg",
+        "imagem2": "assets/produtos/conector-canto-90/conector-canto-90-polido-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90AP",
+                "medidas": "51mm x 51mm x 46mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União de Canto 90º | Preto",
+        "imagem": "assets/produtos/conector-canto-90/conector-canto-90-preto.jpg",
+        "imagem2": "assets/produtos/conector-canto-90/conector-canto-90-preto-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90APR",
+                "medidas": "51mm x 51mm x 46mm"
+            }
+        ]
+    },
+    {
+        "nome": "Conector/União de Canto 90º | Branco",
+        "imagem": "assets/produtos/conector-canto-90/conector-canto-90-branco.jpg",
+        "imagem2": "assets/produtos/conector-canto-90/conector-canto-90-branco-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN90ABR",
+                "medidas": "51mm x 51mm x 46mm"
+            }
+        ]
+    },
+    {
+        "nome": "União 180º | Polido",
+        "imagem": "assets/produtos/uniao-180/uniao-180-polido.jpg",
+        "imagem2": "assets/produtos/uniao-180/uniao-180-polido-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN180AP",
+                "medidas": "76xmm x 10mm x 7mm"
+            }
+        ]
+    },
+    {
+        "nome": "União 180º | Preto",
+        "imagem": "assets/produtos/uniao-180/uniao-180-preto.jpg",
+        "imagem2": "assets/produtos/uniao-180/uniao-180-preto-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN180APR",
+                "medidas": "76xmm x 10mm x 7mm"
+            }
+        ]
+    },
+    {
+        "nome": "União 180º | Branco",
+        "imagem": "assets/produtos/uniao-180/uniao-180-branco.jpg",
+        "imagem2": "assets/produtos/uniao-180/uniao-180-branco-segunda.jpg",
+        "categoria": "Conectores",
+        "variacoes": [
+            {
+                "codigo": "CN180ABR",
+                "medidas": "76xmm x 10mm x 7mm"
+            }
+        ]
+    },
+    {
+        "nome": "Suporte Papel Higiênico | Polido",
+        "imagem": "assets/produtos/suporte-papel-higienico/suporte-papel-higienico-polido.jpg",
+        "imagem2": "assets/produtos/suporte-papel-higienico/suporte-papel-higienico-polido.jpg",
+        "categoria": "Kit Banheiro",
+        "variacoes": [
+            {
+                "codigo": "PAP",
+                "medidas": ""
+            }
+        ]
+    },
+    {
+        "nome": "Suporte Papel Higiênico | Preto",
+        "imagem": "assets/produtos/suporte-papel-higienico/suporte-papel-higienico-preto.jpg",
+        "imagem2": "assets/produtos/suporte-papel-higienico/suporte-papel-higienico-preto.jpg",
+        "categoria": "Kit Banheiro",
+        "variacoes": [
+            {
+                "codigo": "PAPR",
+                "medidas": ""
+            }
+        ]
+    },
+    {
+        "nome": "Cabide Simples Banheiro | Polido",
+        "imagem": "assets/produtos/porta-toalha-de-rosto/porta-toalha-de-rosto-polido.jpg",
+        "imagem2": "assets/produtos/porta-toalha-de-rosto/porta-toalha-de-rosto-polido.jpg",
+        "categoria": "Kit Banheiro",
+        "variacoes": [
+            {
+                "codigo": "POP",
+                "medidas": ""
+            }
+        ]
+    },
+    {
+        "nome": "Cabide Simples Banheiro | Preto",
+        "imagem": "assets/produtos/porta-toalha-de-rosto/porta-toalha-de-rosto-preto.jpg",
+        "imagem2": "assets/produtos/porta-toalha-de-rosto/porta-toalha-de-rosto-preto.jpg",
+        "categoria": "Kit Banheiro",
+        "variacoes": [
+            {
+                "codigo": "POPR",
+                "medidas": ""
+            }
+        ]
+    },
+    {
+        "nome": "Porta Toalha de Rosto | Polido",
+        "imagem": "assets/produtos/porta-toalha-de-rosto-reto/porta-toalha-de-rosto-reto-polido.jpg",
+        "imagem2": "assets/produtos/porta-toalha-de-rosto-reto/porta-toalha-de-rosto-reto-polido.jpg",
+        "categoria": "Kit Banheiro",
+        "variacoes": [
+            {
+                "codigo": "POTP",
+                "medidas": ""
+            }
+        ]
+    },
+    {
+        "nome": "Porta Toalha de Rosto | Preto",
+        "imagem": "assets/produtos/porta-toalha-de-rosto-reto/porta-toalha-de-rosto-reto-preto.jpg",
+        "imagem2": "assets/produtos/porta-toalha-de-rosto-reto/porta-toalha-de-rosto-reto-preto.jpg",
+        "categoria": "Kit Banheiro",
+        "variacoes": [
+            {
+                "codigo": "POTPR",
+                "medidas": ""
+            }
+        ]
+    },
+    {
+        "nome": "Emenda U | Polida",
+        "imagem": "assets/produtos/emenda-u/emenda-u-polida.jpg",
+        "imagem2": "assets/produtos/emenda-u/emenda-u-polida.jpg",
+        "categoria": "Emendas U",
+        "variacoes": [
+            {
+                "codigo": "PUP8",
+                "medidas": "Espessura do Vidro: 8mm"
+            },
+            {
+                "codigo": "PUP10",
+                "medidas": "Espessura do Vidro: 10mm"
+            },
+            {
+                "codigo": "PUP12",
+                "medidas": "Espessura do Vidro: 12mm"
+            },
+            {
+                "codigo": "PUP16",
+                "medidas": "Espessura do Vidro: 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Emenda U | Preta",
+        "imagem": "assets/produtos/emenda-u/emenda-u-preta.jpg",
+        "imagem2": "assets/produtos/emenda-u/emenda-u-preta.jpg",
+        "categoria": "Emendas U",
+        "variacoes": [
+            {
+                "codigo": "PUPR8",
+                "medidas": "Espessura do Vidro: 8mm"
+            },
+            {
+                "codigo": "PUPR10",
+                "medidas": "Espessura do Vidro: 10mm"
+            },
+            {
+                "codigo": "PUPR12",
+                "medidas": "Espessura do Vidro: 12mm"
+            },
+            {
+                "codigo": "PUPR16",
+                "medidas": "Espessura do Vidro: 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Emenda U | Branca",
+        "imagem": "assets/produtos/emenda-u/emenda-u-branca.jpg",
+        "imagem2": "assets/produtos/emenda-u/emenda-u-branca.jpg",
+        "categoria": "Emendas U",
+        "variacoes": [
+            {
+                "codigo": "PUBR8",
+                "medidas": "Espessura do Vidro: 8mm"
+            },
+            {
+                "codigo": "PUBR10",
+                "medidas": "Espessura do Vidro: 10mm"
+            },
+            {
+                "codigo": "PUBR12",
+                "medidas": "Espessura do Vidro: 12mm"
+            },
+            {
+                "codigo": "PUBR16",
+                "medidas": "Espessura do Vidro: 16mm"
+            }
+        ]
+    },
+    {
+        "nome": "Canopla Polida",
+        "imagem": "assets/produtos/canoplas/canopla-polida.jpg",
+        "imagem2": "assets/produtos/canoplas/canopla-polida.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "C10P",
+                "medidas": "10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Canopla Escovada",
+        "imagem": "assets/produtos/canoplas/canopla-escovada.jpg",
+        "imagem2": "assets/produtos/canoplas/canopla-escovada.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "C10E",
+                "medidas": "10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Canopla Preta",
+        "imagem": "assets/produtos/canoplas/canopla-preta.jpg",
+        "imagem2": "assets/produtos/canoplas/canopla-preta.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "C10PR",
+                "medidas": "10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Canopla Branca",
+        "imagem": "assets/produtos/canoplas/canopla-branca.jpg",
+        "imagem2": "assets/produtos/canoplas/canopla-branca.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "C10BR",
+                "medidas": "10mm"
+            }
+        ]
+    },
+    {
+        "nome": "Guia U Externo | Polido",
+        "imagem": "assets/produtos/guia-u/guia-u-polido.jpg",
+        "imagem2": "assets/produtos/guia-u/guia-u-polido-segunda.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "G-AP",
+                "medidas": "70mm x 47mm"
+            }
+        ]
+    },
+    {
+        "nome": "Guia U Externo | Preto",
+        "imagem": "assets/produtos/guia-u/guia-u-preto.jpg",
+        "imagem2": "assets/produtos/guia-u/guia-u-preto-segunda.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "G-APR",
+                "medidas": "70mm x 47mm"
+            }
+        ]
+    },
+    {
+        "nome": "Guia U Externo | Branco",
+        "imagem": "assets/produtos/guia-u/guia-u-branco.jpg",
+        "imagem2": "assets/produtos/guia-u/guia-u-branco-segunda.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "G-ABR",
+                "medidas": "70mm x 47mm"
+            }
+        ]
+    },
+    {
+        "nome": "Batedor Limitador | Polido",
+        "imagem": "assets/produtos/batedor-limitador/batedor-polido.jpg",
+        "imagem2": "assets/produtos/batedor-limitador/batedor-segunda.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "BTR",
+                "medidas": "21,8mm x 24,2mm"
+            }
+        ]
+    },
+    {
+        "nome": "Batedor Limitador | Preto",
+        "imagem": "assets/produtos/batedor-limitador/batedor-preto.jpg",
+        "imagem2": "assets/produtos/batedor-limitador/batedor-segunda.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "BTRPR",
+                "medidas": "21,8mm x 24,2mm"
+            }
+        ]
+    },
+    {
+        "nome": "Batedor Limitador | Branco",
+        "imagem": "assets/produtos/batedor-limitador/batedor-branco.jpg",
+        "imagem2": "assets/produtos/batedor-limitador/batedor-segunda.jpg",
+        "categoria": "Acessorios",
+        "variacoes": [
+            {
+                "codigo": "BTRBR",
+                "medidas": "21,8mm x 24,2mm"
+            }
+        ]
+    }
+]
